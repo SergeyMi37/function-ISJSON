@@ -4,10 +4,10 @@
  It is also NOT serviced by InterSystems Support !   
 ~~~ 
 ## function  to check string if JSON object
-It's also an example for a customized command extension (ZZJSN) in Caché & IRIS  
-This time it is a customized SystemFunction to be included in %ZLANGF00.mac 
+It's also an example of a customized SystemFunction extension (ZZISJSON) in Caché & IRIS  
+This time it is to be included in %ZLANGF00.mac 
 
-A JSON string is mostly imported from file oder over REST
+A JSON string is mostly imported from file or over REST
 You rely on a clean and compatible structure. This is the check.
 
 __demo__
