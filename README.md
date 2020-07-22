@@ -10,6 +10,8 @@ This time it is to be included in %ZLANGF00.mac
 A JSON string is mostly imported from file or over REST
 You rely on a clean and compatible structure. This is the check.
 
+__required:__    ZPretty.mac   
+
 __demo__
 ```
 USER>ZWRITE jsn  
