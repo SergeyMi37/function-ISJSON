@@ -3,12 +3,11 @@
   <Document name="isjson.ZPM">
     <Module>
       <Name>isjson</Name>
-      <Version>1.0.1</Version>
+      <Version>1.0.2</Version>
       <Description>check format of JSON string</Description>
       <Keywords>JSON, COS, SYS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="ZPretty.MAC"/>
        <Resource Name="ZZISJSON.INC"/>
     </Module>
   </Document>
