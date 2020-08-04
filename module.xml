@@ -3,10 +3,16 @@
   <Document name="isjson.ZPM">
     <Module>
       <Name>isjson</Name>
-      <Version>1.0.2</Version>
+      <Version>1.0.4</Version>
       <Description>check format of JSON string</Description>
       <Keywords>JSON, COS, SYS</Keywords>
       <Packaging>module</Packaging>
+      <Dependencies>
+        <ModuleReference>
+          <Name>pretty-json</Name>
+          <Version>1.*.*</Version>
+        </ModuleReference>
+      </Dependencies>
       <SourcesRoot>src</SourcesRoot>
        <Resource Name="ZZISJSON.INC"/>
     </Module>
