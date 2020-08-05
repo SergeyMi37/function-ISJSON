@@ -25,3 +25,5 @@ is(1)=1
 is(2)=0
 
 ```
+
+[Article in DC](https://community.intersystems.com/post/function-check-if-string-json-object)
